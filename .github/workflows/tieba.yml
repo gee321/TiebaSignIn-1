@@ -10,7 +10,6 @@ on:
 
 jobs:
   TiebaSignIn:
-
     runs-on: ubuntu-latest
 
     steps:
